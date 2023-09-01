@@ -1,3 +1,6 @@
+![logo](https://github.com/JawadAfzal123/JawadAfzal123/blob/main/JawadAfzal.png)
+
+
 <h1 align="center">Hi 👋, I'm Jawad_Afzal</h1>
 <h3 align="center">A passionate Full Stack Artificial Intelligence Engineer from Pakistan</h3>
 
