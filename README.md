@@ -1,4 +1,4 @@
-![logo](https://github.com/JawadAfzal123/JawadAfzal123/blob/main/JawadAfzal.png)
+![logo](https://github.com/JawadAfzal123/JawadAfzal123/blob/main/JawadAfzal.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Jawad_Afzal</h1>
