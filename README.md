@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Django, Core Machine Learning, Artificial Intelligence**
 
-- 💬 Ask me about **Ai, chatbot and python**
+- 💬 Ask me about **Artificial intelligence,Machine learning and python**
 
 - 📫 How to reach me **jawadafzal763@gmail.com**
 
@@ -35,4 +35,3 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jawadafzal123&limit=5&theme=flat&combine_all_yearly_contributions=true)
-
