@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **VERTEX AI (Google Cloud Services)**
 
-- 💬 Ask me about **Python, Machine Learning, Django, React, AWS, Database**
+- 💬 Ask me about **Python, Machine Learning, Django, React, AWS, Database,GCP, React.js, Nest.js **
 
-- 📫 How to reach me **jaffaralichaudhary12@gmail.com**
+- 📫 How to reach me **jawadafzal763@gmail.com**
 
 - ⚡ Fun fact **I am good at sports.**
 
