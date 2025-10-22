@@ -4,7 +4,7 @@
 <h3 align="center">A passionate full stack AI developer</h3>
 <img align="right" alt="coding_by_jawad" width="400" src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif"/>
 
-- 🔭 I’m currently working on [Xanthica](https://xeven.ai/legal-contract-analyzer/)
+- 🔭 I’m currently working on [Xanthica](https://www.mypie.ai/)
 
 - 🌱 I’m currently learning **VERTEX AI (Google Cloud Services)**
 
