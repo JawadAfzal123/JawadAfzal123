@@ -1,102 +1,106 @@
-<h1 align="center">Hi 👋, I'm Jawad Afzal</h1>
-<h3 align="center">AI Architect | GenAI Systems Engineer | Full Stack AI Developer</h3>
+<h1 align="center">Hi, I'm Jawad Afzal</h1>
+<h3 align="center">AI Architect | GenAI Systems Engineer | Full Stack Developer</h3>
 
 <img align="right" alt="ai_systems" width="400" src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif"/>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I design and build **production-grade AI systems**, not just demos.
+I design and build production-grade AI systems that solve real business problems.
 
-- 🧠 Architecting **LLM-powered platforms, AI agents & RAG systems**
-- ⚙️ Building **scalable backend systems (FastAPI, Node.js, microservices)**
-- 🔗 Integrating **LLMs with real-world workflows (APIs, DBs, automation tools)**
-- 📊 Focused on **performance, cost optimization, and observability**
-- 🌍 Delivering solutions used in **real business environments (not PoCs)**
+With a strong background in AI engineering and backend architecture, I specialize in building scalable, reliable, and cost-efficient systems powered by Large Language Models (LLMs), automation workflows, and cloud-native infrastructure.
+
+My focus is not just on building features, but on architecting complete systems that are maintainable, observable, and ready for real-world usage.
 
 ---
 
-## 🧩 What I Specialize In
+## Core Expertise
 
-- 🧠 **LLM Applications & GenAI Systems**
-- 🔍 **RAG (Retrieval-Augmented Generation) Pipelines**
-- 🤖 **Agentic AI Systems (Multi-Agent Workflows)**
-- 🔗 **Model Context Protocol (MCP) Architectures**
-- ⚡ **AI Automation (n8n, Zapier, Make)**
-- 📦 **AI Microservices & Event-Driven Systems**
-- 📊 **Vector Databases (Pinecone, FAISS, Weaviate)**
-- 🛠️ **LLMOps, Guardrails, Observability & Evaluation**
-- 💰 **AI Cost Optimization & Token Efficiency**
-- 🔐 **Secure AI Systems (JWT, RBAC, OAuth2)**
-
----
-
-## 🏗️ Systems I Build
-
-- 🧠 AI Chatbots with **long-term memory (Supabase + RAG)**
-- 🤖 Multi-agent AI systems (LangGraph / CrewAI / AutoGen)
-- 📄 AI document processing & extraction pipelines
-- 📊 AI dashboards & analytics platforms
-- 🔁 Workflow automation systems (n8n / Zapier / APIs)
-- ☁️ Cloud-native AI backends (AWS / GCP / Docker / Kubernetes)
+- LLM Application Development and GenAI Systems  
+- Retrieval-Augmented Generation (RAG) Architectures  
+- Agentic AI Systems and Multi-Agent Workflows  
+- Model Context Protocol (MCP) and Tool Integration  
+- AI Workflow Automation (n8n, Zapier, Make)  
+- LLMOps, Evaluation, Guardrails, and Observability  
+- Event-Driven Systems and Microservices Architecture  
+- AI Cost Optimization and Performance Engineering  
+- Secure Backend Systems (JWT, OAuth2, RBAC)
 
 ---
 
-## ⚡ Tech Stack
+## Systems I Build
 
-### 🧠 AI / LLM
-- OpenAI, Claude, Gemini, Bedrock
-- LangChain, LangGraph, LlamaIndex
-- HuggingFace, Transformers, PyTorch
-- RAG, Embeddings, Semantic Search
-
-### 🧩 Automation & Agents
-- n8n ⚡, Zapier 🔗, Make (Integromat)
-- AutoGen, CrewAI, Agent Orchestration
-- MCP (Model Context Protocol)
-
-### 🖥️ Backend & APIs
-- Python (FastAPI, Django, Flask)
-- Node.js (Express, NestJS)
-- REST APIs, Webhooks, Async Systems
-
-### 🗄️ Databases & Storage
-- PostgreSQL, Supabase
-- MongoDB, Redis
-- Vector DBs: Pinecone, FAISS, Weaviate
-
-### ☁️ Cloud & DevOps
-- AWS (Lambda, ECS, S3, API Gateway)
-- GCP (Cloud Run, Vertex AI)
-- Docker 🐳, Kubernetes ☸️
-- CI/CD, Observability, Logging
-
-### 🎯 Frontend
-- React.js, Next.js
-- TailwindCSS
+- AI chat systems with memory and personalization  
+- Multi-agent AI platforms (LangGraph, CrewAI, AutoGen)  
+- Document intelligence and data extraction pipelines  
+- AI-powered dashboards and analytics platforms  
+- Workflow automation systems integrated with APIs  
+- Cloud-native AI backends deployed at scale  
 
 ---
 
-## 🔥 Current Focus
+## Tech Stack
 
-- 🚀 Building **AI systems with memory + personalization**
-- 🧠 Scaling **RAG pipelines for real-world use**
-- ⚡ Designing **automation-first AI workflows**
-- 🧩 Connecting **LLMs with business tools & APIs**
+### AI / Machine Learning
+- OpenAI, Claude, Gemini, Bedrock  
+- LangChain, LangGraph, LlamaIndex  
+- HuggingFace, Transformers, PyTorch  
+- Scikit-learn, XGBoost, Classical ML models  
+- RAG pipelines, embeddings, semantic search  
+
+### Backend & APIs
+- Python (FastAPI, Django, Flask)  
+- Node.js (Express, NestJS)  
+- REST APIs, Webhooks, Async processing  
+
+### Automation & Agents
+- n8n, Zapier, Make (Integromat)  
+- AutoGen, CrewAI  
+- MCP-based tool orchestration  
+
+### Data & Storage
+- PostgreSQL, Supabase  
+- MongoDB, Redis (caching)  
+- Vector databases: Pinecone, FAISS, Weaviate  
+
+### Data Engineering & Streaming
+- Apache Kafka  
+- ETL pipelines, data processing workflows  
+
+### DevOps & Cloud
+- AWS (Lambda, ECS, S3, API Gateway)  
+- Google Cloud (Cloud Run, Vertex AI)  
+- Docker, Kubernetes  
+- CI/CD pipelines  
+
+### Observability & Monitoring
+- Prometheus  
+- Grafana  
+
+### Additional Tools
+- Selenium (Web Scraping & Automation)  
+- Git, Linux  
 
 ---
 
-## 📫 Connect With Me
+## Current Focus
 
-<p align="left">
-<a href="https://www.linkedin.com/in/jawad-afzal763" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-</p>
+- Building AI systems with long-term memory and personalization  
+- Scaling RAG pipelines for enterprise use cases  
+- Designing automation-first AI workflows  
+- Integrating LLMs with real-world business systems  
 
 ---
 
-## ⚡ Fun Fact
+## Work With Me
 
-I don’t just build AI… I build systems that actually **replace manual work** 🚀
+- Upwork: https://www.upwork.com/freelancers/~0116ce352ca93b0d41?mp_source=share  
+- Fiverr: https://www.fiverr.com/s/lje5Nee  
+- LinkedIn: https://www.linkedin.com/in/jawad-afzal763  
+
+---
+
+## Note
+
+I focus on building AI systems that move beyond prototypes — systems that reduce manual work, improve efficiency, and operate reliably in production environments.
