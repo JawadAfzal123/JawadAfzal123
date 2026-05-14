@@ -95,8 +95,7 @@ My focus is not just on building features, but on architecting complete systems 
 
 ## 🤝 Work With Me
 
-- Upwork: https://www.upwork.com/freelancers/~0116ce352ca93b0d41?mp_source=share  
-- Fiverr: https://www.fiverr.com/s/lje5Nee  
+
 - LinkedIn: https://www.linkedin.com/in/jawad-afzal763  
 
 ---
